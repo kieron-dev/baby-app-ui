@@ -1,0 +1,6 @@
+---
+applications:
+- path: build
+  memory: 64M
+  env:
+    REACT_APP_API_URL: https://baby-api.cfapps.io
